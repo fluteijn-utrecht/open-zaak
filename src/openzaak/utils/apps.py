@@ -13,6 +13,7 @@ class UtilsConfig(AppConfig):
 
     def ready(self):
         from . import (  # noqa
+            audittrail,
             checks,
             fields,
             handlers,
