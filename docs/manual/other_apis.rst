@@ -4,7 +4,7 @@
 Gebruik van externe API's
 =========================
 
-Open Zaak past de Common Ground gedachte toe van data-bij-de-bron ophalen. Er bestaan
+Open Zaak past de Common Ground gedachte toe van data-bij-de-bron ophalen. Er bestaat
 al een aantal RESTful API's die gebruikt kunnen worden met Open Zaak, zoals de `BAG`_ en
 `BRT`_. Een praktisch voorbeeld hiervan is het relateren van een **Pand** of **Wegdeel**
 aan een zaak.
